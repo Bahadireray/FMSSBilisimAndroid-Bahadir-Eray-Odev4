@@ -4,6 +4,7 @@
 ### Retrofit
 ### Recyclerview
 ### Rxjava
+### View Binding
 ### Picasso
 ### Circleimageview
 ### Navigation Fragment
